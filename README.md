@@ -1,6 +1,6 @@
 # NodeJS Weather App
 
-## This Weatcher Application will show you details about desired location, including latitude and longitude, as well as temperature and humidity for the desired location.
+## This Weather Application will show you details about desired location, including latitude and longitude, as well as temperature and humidity for the desired location.
 
 ### To run this application:
 1. Clone project repository
